@@ -12,63 +12,19 @@ dependencies = [
 ]
 
 [[package]]
-name = "aoc-2015-01"
-version = "0.1.0"
-dependencies = [
- "aoc-utils",
-]
-
-[[package]]
-name = "aoc-2015-02"
-version = "0.1.0"
-dependencies = [
- "aoc-utils",
-]
-
-[[package]]
-name = "aoc-2015-03"
-version = "0.1.0"
-dependencies = [
- "aoc-utils",
-]
-
-[[package]]
-name = "aoc-2015-04"
-version = "0.1.0"
-dependencies = [
- "md5",
-]
-
-[[package]]
-name = "aoc-2015-05"
-version = "0.1.0"
-dependencies = [
- "aoc-utils",
-]
-
-[[package]]
-name = "aoc-2015-06"
-version = "0.1.0"
-dependencies = [
- "aoc-utils",
- "lazy_static",
- "regex",
-]
-
-[[package]]
-name = "aoc-2015-07"
-version = "0.1.0"
-dependencies = [
- "aoc-utils",
- "lazy_static",
- "regex",
-]
-
-[[package]]
 name = "aoc-2021-01"
 version = "0.1.0"
 dependencies = [
  "aoc-utils",
+]
+
+[[package]]
+name = "aoc-2021-02"
+version = "0.1.0"
+dependencies = [
+ "aoc-utils",
+ "lazy_static",
+ "regex",
 ]
 
 [[package]]
@@ -80,12 +36,6 @@ name = "lazy_static"
 version = "1.4.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "e2abad23fbc42b3700f2f279844dc832adb2b2eb069b2df918f455c4e18cc646"
-
-[[package]]
-name = "md5"
-version = "0.7.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "490cc448043f947bae3cbee9c203358d62dbee0db12107a74be5c30ccfd09771"
 
 [[package]]
 name = "memchr"
